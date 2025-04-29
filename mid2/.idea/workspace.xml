@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9389286-8616-487b-8b0a-7c5075513cd4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mid2/Progress_250423/collection/set/test/SetOperationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mid2/Progress_250423/collection/set/test/SetOperationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +28,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2v4HPbIR7SsegkLWMo3lXqYZvrn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,27 +46,21 @@
     "Application.ArrayEx1.executor": "Run",
     "Application.ArrayMain1.executor": "Run",
     "Application.ArrayMain2.executor": "Run",
+    "Application.ArrayToMapTest.executor": "Run",
     "Application.BatchProcessorMain.executor": "Run",
     "Application.BoxMain.executor": "Run",
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
+    "Application.CommonKeyValueSum1.executor": "Debug",
     "Application.ContainerTest.executor": "Run",
-    "Application.HashAndEqualMain1.executor": "Run",
-    "Application.HashAndEqualMain2.executor": "Run",
-    "Application.HashAndEqualMain3.executor": "Run",
-    "Application.HashStart1.executor": "Run",
-    "Application.HashStart2.executor": "Run",
-    "Application.HashStart3.executor": "Run",
-    "Application.HashStart4.executor": "Run",
-    "Application.HashStart5.executor": "Run",
-    "Application.JavaHashCodeMain.executor": "Run",
-    "Application.JavaMapMain.executor": "Run",
-    "Application.JavaSetMain.executor": "Run",
+    "Application.DequeMain.executor": "Run",
+    "Application.DequeQueueMain.executor": "Run",
+    "Application.DequeStackMain.executor": "Run",
+    "Application.DictionaryTest.executor": "Run",
+    "Application.ItemPriceTest.executor": "Run",
     "Application.ListEx2.executor": "Run",
     "Application.ListEx3.executor": "Run",
-    "Application.MapMain1.executor": "Run",
-    "Application.MapMain2.executor": "Run",
-    "Application.MapMain3.executor": "Run",
+    "Application.MemberRepositioryMain.executor": "Run",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -75,11 +69,6 @@
     "Application.MyArrayList3Main.executor": "Run",
     "Application.MyArrayList4Main.executor": "Run",
     "Application.MyArrayListV3BadMain.executor": "Run",
-    "Application.MyHashSetV0Main.executor": "Run",
-    "Application.MyHashSetV1Main.executor": "Run",
-    "Application.MyHashSetV2Main.executor": "Run",
-    "Application.MyHashSetV2Main2.executor": "Run",
-    "Application.MyHashSetV3Main.executor": "Run",
     "Application.MyLinkedList1Main.executor": "Run",
     "Application.MyLinkedList2Main.executor": "Run",
     "Application.MyLinkedList3Main.executor": "Run",
@@ -88,24 +77,18 @@
     "Application.NodeMain2.executor": "Run",
     "Application.NodeMain3.executor": "Run",
     "Application.PairTest.executor": "Run",
-    "Application.QueuqMain.executor": "Run",
     "Application.RawTypeMain.executor": "Run",
-    "Application.RectangleTest.executor": "Run",
-    "Application.SetOperationTest.executor": "Debug",
     "Application.ShoppingCartMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
-    "Application.StackMain.executor": "Run",
-    "Application.StringHashMain.executor": "Run",
-    "Application.UniqueNamesTest1.executor": "Run",
-    "Application.UniqueNamesTest2.executor": "Run",
-    "Application.UniqueNamesTest3.executor": "Run",
     "Application.UnitPrinterTest.executor": "Run",
     "Application.UnitUtilTest.executor": "Run",
     "Application.WildcardMain1.executor": "Run",
     "Application.WildcardMain2.executor": "Run",
+    "Application.WordFrequencyTest1.executor": "Run",
     "Application.javaListPerfornanceTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "<unknown>",
     "kotlin-language-version-configured": "true",
@@ -120,19 +103,19 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Progress_250428.collection.map" />
-      <recent name="Progress_250423.collection.set.test" />
-      <recent name="Progress_250422.collection.set" />
-      <recent name="Progress_250422.collection.set.member" />
-      <recent name="Progress_250421.collection.set" />
+      <recent name="Progress_250415.test.ex1" />
+      <recent name="Progress_250415" />
+      <recent name="Progress_250414.collection.list" />
+      <recent name="Progress_250409.collection.link" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueuqMain">
-    <configuration name="JavaMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250428.collection.map.JavaMapMain" />
+  <component name="RunManager" selected="Application.MemberRepositioryMain">
+    <configuration name="CommonKeyValueSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.CommonKeyValueSum1" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250428.collection.map.*" />
+          <option name="PATTERN" value="Progress_250429.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250428.collection.map.MapMain2" />
+    <configuration name="DictionaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.DictionaryTest" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250428.collection.map.*" />
+          <option name="PATTERN" value="Progress_250429.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250428.collection.map.MapMain3" />
+    <configuration name="ItemPriceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.ItemPriceTest" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250428.collection.map.*" />
+          <option name="PATTERN" value="Progress_250429.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueuqMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250428.collection.map.QueuqMain" />
+    <configuration name="MemberRepositioryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.member.MemberRepositioryMain" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250428.collection.map.*" />
+          <option name="PATTERN" value="Progress_250429.map.test.member.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Progress_250428.collection.map.StackMain" />
+    <configuration name="WordFrequencyTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Progress_250429.map.test.WordFrequencyTest1" />
       <module name="mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Progress_250428.collection.map.*" />
+          <option name="PATTERN" value="Progress_250429.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QueuqMain" />
-        <item itemvalue="Application.StackMain" />
-        <item itemvalue="Application.JavaMapMain" />
-        <item itemvalue="Application.MapMain3" />
-        <item itemvalue="Application.MapMain2" />
+        <item itemvalue="Application.MemberRepositioryMain" />
+        <item itemvalue="Application.DictionaryTest" />
+        <item itemvalue="Application.ItemPriceTest" />
+        <item itemvalue="Application.WordFrequencyTest1" />
+        <item itemvalue="Application.CommonKeyValueSum1" />
       </list>
     </recent_temporary>
   </component>
@@ -217,83 +200,39 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>6</line>
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>24</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>7</line>
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>25</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>26</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>16</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>18</line>
+          <url>file://$PROJECT_DIR$/src/Progress_250429/map/test/CommonKeyValueSum1.java</url>
+          <line>33</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Progress_250423/collection/set/test/SetOperationTest.java</url>
-          <line>36</line>
-          <properties class="Progress_250423.collection.set.test.SetOperationTest" method="addSet">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
